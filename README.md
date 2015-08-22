@@ -1,3 +1,25 @@
+1. Rate today's workshop - scale of 1-10
+
+9 (missing point a reflecting general class structure, not the instructor)
+
+2. Things from today that I liked
+
+Liked the instructor - Beth was able to work with everyone individually as needed while staying ahead of schedule, allowing her to fit in extra material. Liked her focus on helping understand the underlying principles and process and not just relying on the nice extras from fish. Also appreciated checkins to see if anyone was moving faster and slower and the addiditonal challenge
+
+3. Things I would improve
+request students to read the same unix crash course that is a prereq for F2 - the appendix from ruby the hard way. I did that the day before and found it to be an incredibly helpful primer and even if only half the students read through it it would help keep things moving and allow the class to cover more material.
+
+Perhaps have set up be an optional 30 minute lab before the main course so those who finished set up before can be on same page as those who need help when course starts
+
+OR
+
+have a prepared list of micro challenges to add more structure to those inbetween times when the class is working on a task and you finish ahead of time. Would help having a guide to where to focus energy. Otherwise I would jump down the rabbithole of reading man entries and sometimes getting a bit overwhelmed by too much data
+
+
+
+
+
+
 Unix & Git for Everyone (Portland, August 22, 2015)
 --------------------------------------------------
 
