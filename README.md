@@ -1,6 +1,6 @@
 1. Rate today's workshop - scale of 1-10
 
-9 (missing point a reflecting general class structure, not the instructor)
+9 (missing point a reflection on general class structure, not the instructor)
 
 2. Things from today that I liked
 
